@@ -13,7 +13,7 @@ Drill the spots that come up every session: open-raising, facing a raise, and 3-
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Michael Dean Deschaine.
+MIT — see [LICENSE](LICENSE). Copyright (c) 2026 MDD107.
 
 ## Building
 
